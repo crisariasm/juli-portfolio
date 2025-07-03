@@ -141,7 +141,7 @@ export function ContactSection() {
                     size="lg"
                     variant="outline"
                     className="w-full border-white text-white hover:bg-white hover:text-black text-lg py-4 bg-transparent"
-                    onClick={() => window.open('https://wa.me/573225195629?text=¡Hola%20Juli!%20👋%20Estoy%20muy%20interesado%20en%20tus%20clases%20de%20violín%20para%20descubrir%20mi%20potencial%20musical.%20Me%20gustaría%20conocer%20más%20sobre%20tu%20metodología%20y%20cómo%20podemos%20empezar.%20¡Gracias!%20🎻', '_blank')}
+                    onClick={() => window.open('https://wa.me/573225195629?text=¡Hola%20Juli!%20Estoy%20muy%20interesado%20en%20tus%20clases%20de%20violín%20para%20descubrir%20mi%20potencial%20musical.%20Me%20gustaría%20conocer%20más%20sobre%20tu%20metodología%20y%20cómo%20podemos%20empezar.%20¡Gracias!', '_blank')}
                   >
                     <MessageCircle className="mr-2 h-5 w-5" />
                     Enviar WhatsApp

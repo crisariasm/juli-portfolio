@@ -53,7 +53,7 @@ export function ViolinClassesBanner() {
               <Button 
                 size="lg" 
                 className="bg-yellow-400 hover:bg-yellow-500 text-black font-bold text-lg px-8 py-4"
-                onClick={() => window.open('https://wa.me/573225195629?text=¡Hola%20Juli!%20😊%20Me%20gustaría%20reservar%20mi%20primera%20clase%20gratuita%20de%20violín%20contigo.%20Estoy%20muy%20entusiasmado%20de%20empezar%20este%20hermoso%20viaje%20musical.%20¿Cuándo%20podríamos%20agendar%20la%20clase?%20🎻', '_blank')}
+                onClick={() => window.open('https://wa.me/573225195629?text=¡Hola%20Juli!%20Me%20gustaría%20reservar%20mi%20primera%20clase%20gratuita%20de%20violín%20contigo.%20Estoy%20muy%20entusiasmado%20de%20empezar%20este%20hermoso%20viaje%20musical.%20¿Cuándo%20podríamos%20agendar%20la%20clase?', '_blank')}
               >
                 Reservar Clase Gratis
               </Button>
@@ -61,7 +61,7 @@ export function ViolinClassesBanner() {
                 size="lg"
                 variant="outline"
                 className="border-white text-white hover:bg-white hover:text-black text-lg px-8 py-4 bg-transparent"
-                onClick={() => window.open('https://wa.me/573225195629?text=¡Hola%20Juli!%20👋%20Me%20interesa%20mucho%20conocer%20más%20información%20sobre%20tus%20clases%20de%20violín.%20Me%20gustaría%20saber%20sobre%20tu%20metodología,%20horarios%20y%20precios.%20¡Gracias!%20🎵', '_blank')}
+                onClick={() => window.open('https://wa.me/573225195629?text=¡Hola%20Juli!%20Me%20interesa%20mucho%20conocer%20más%20información%20sobre%20tus%20clases%20de%20violín.%20Me%20gustaría%20saber%20sobre%20tu%20metodología,%20horarios%20y%20precios.%20¡Gracias!', '_blank')}
               >
                 Más Información
               </Button>
